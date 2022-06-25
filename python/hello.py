@@ -1,7 +1,11 @@
-x = 5
-x //= 2
-print(x)
+from tkinter import Y
 
+
+x = 1234
+y = str(1234)
+print(y)
+print(type(y))
+print(type(x))
 # class Course :
 #     def __init__ (self, name, max_students):
 #         self.name = name
